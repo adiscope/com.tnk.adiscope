@@ -6,6 +6,12 @@
   "unity": "2021.3",
   "keywords": [ "ad", "adiscope" ],
   "dependencies": { },
+  "samples": [
+    {
+      "displayName": "Main",
+      "path": "Sample~"
+    }
+  ],
   "author": {
       "name": "sooyeon",
       "email": "tnkdev@neowiz.com",
